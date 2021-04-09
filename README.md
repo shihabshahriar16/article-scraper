@@ -8,4 +8,4 @@ python must be installed in your system to run this script
   pip install BeautifulSoup4 </br>
   
 **To run from terminal or command line use** </br>
-  python article_scrapper.py filename
+  python article_scraper.py filename
