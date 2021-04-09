@@ -3,9 +3,9 @@ This is a python script that takes a filename as argument and scrapes the websit
 
 python must be installed in your system to run this script
 
-Install dependencies if not installed already
-  pip install requests
-  pip install BeautifulSoup4
+**Install dependencies if not installed already** </br>
+  pip install requests </br>
+  pip install BeautifulSoup4 </br>
   
-To run from terminal or command line use
+**To run from terminal or command line use** </br>
   python article_scrapper.py filename
